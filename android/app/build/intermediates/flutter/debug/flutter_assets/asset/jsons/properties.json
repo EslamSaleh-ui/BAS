@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "Vehicles",
+      "name": {"kind":"Cars For Sale",
+        "properties": [{
+        },[],[],[],[],[],[],[],[],[]]
+      }
+    }, {
+      "id": "Properties",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Mobile Phones, Tablets, & Accessories",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Electronics & Home Appliances",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Home Furniture - Decor",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Fashion & Beauty",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Pets - Accessories",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Kids & Babies",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Books, Sports & Hobbies",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Jobs",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Business - Industrial - Agriculture",
+      "name": "Item 1",
+      "description": "Description 1"
+    }, {
+      "id": "Services",
+      "name": "Item 1",
+      "description": "Description 1"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+   "car": {"Cars For Sale":{"Brand": {"url": ""} },
+     "Cars for rent": {},
+     "Tyres,Batteries,oils and accessories": {},
+     "Car spare parts": {},
+     "Motorcycles,Accessories": {},
+     "Boats-Watercraft": {},
+     "Heavy trucks,Buses and Other Vehicles": {}
+    }, "homes":{
+      "Apartments & duplex for sale": {
+        "Type": {"name": "DropdownFormField",
+          "elements": ["Apartment","Duplex","Penthouse","Studio"]},
+        "DownPayment": {"name": "TextFormField"
+          ,"kind": "number"},
+        "Amenities": {"name": "TextFormField",
+        "elements": ["Balcony","Build in Kitchen Appliances","Private Garden","Central A/c & heating"]}
+      },
+      "Apartments & duplex for rent": {},
+     "Villas for sale": {},
+      "Villas for rent": {},
+  "vacation homes for sale": {},
+  "vacation homes for rent": {},
+  "Commercial for sale": {},
+  "Commercial for rent": {},
+  "Buildings, lands": {}
+    },"mobile": {
+    "Mobiles phones":{},
+    "Tablets": {},
+     "Mobiles ,tablet accessories": {},
+     "Mobile numbers": {}
+    },"tv": {
+      "Televisions": {},
+  "DVD-Home theater": {},
+  "Home Audio": {},
+  "Mp3 players-portable audio": {},
+  "Satellite tv receivers": {},
+  "Desktop computer": {},
+  "Laptop computer": {},
+  "Computer accessories-spare parts": {},
+  "Video game Consoles": {},
+  "Video games-Accessories": {},
+  "Cameras": {},
+  "Security Cameras": {},
+  "Camera Accessories": {},
+  "Binoculars-Telescopes": {},
+  "Refrigerators-freezers": {},
+  "Ovens-Microwaves": {},
+  "Dishwashers": {},
+  "Cooking tools": {},
+  "Washers-dryers": {},
+"Water coolers-Kettles": {},
+  "Air conditioners-fans": {},
+  "Cleaning Appliances" : {},
+  "Other Home Appliances": {},
+  "Heaters": {}
+    },"decor": {
+      "Bathroom": {},
+      "Bedroom": {},
+      "Dining room": {},
+      "Fabrics-Curtains-Carpets": {},
+       "Garden-Outdoor": {},
+       "Home decorations": {},
+        "Kitchen-Kitchenware": {},
+        "Lighting tools": {},
+         "Living Room": {},
+        "Multiple-Other furniture": {}
+    }, "fashion": {
+      "Women’s fashions": {},
+       "men’s fashions": {},
+        "Women’s accessories-Cosmetics-personal care": {},
+         "men’s accessories-personal care": {}
+    }, "pets":{
+        "Birds-Pigeons": {} ,
+        "Cats": {},
+        "Dogs": {},
+        "Other Pets - Animals": {},
+        "Accessories-Pet Care Products": {}
+    }, "kids":{
+  "Baby - mom healthcare": {},
+  "Baby clothing": {},
+  "Baby feeding tools": {},
+  "Cribs-Strollers-Carriers": {},
+  "Toys": {},
+  "Other baby items": {}
+},  "book":{
+     "Antiques-collectibles": {},
+      "Bicycles": {},
+       "Books": {},
+       "Board-Card Games": {},
+        "Movies-Music": {},
+         "Musical instruments": {},
+        "Sports Equipment": {},
+         "Study Tools": {},
+         "Tickets-Vouchers": {},
+           "luggage": {},
+          "Other items": {}
+    },  "jobs":{
+      "Accounting-Finance-Banking": {},
+       "Engineering": {},
+        "Designers": {},
+        "Customer service-Call center": {},
+          "Workers-Technicians": {},
+         "Management- Consulting": {},
+          "Drivers-Delivery": {},
+           "Education": {},
+          "HR": {},
+          "Tourism,Travel-Hospitality": {},
+          "IT-Telecom": {},
+            "Marketing-Public relations": {},
+               "Medical,Healthcare & Nursing": {},
+           "Sales": {},
+            "Secretarial": {},
+           "Guards-Security": {},
+           "Legal-Royals": {},
+              "Other Jobs": {}
+    },"trade": {
+      "Agriculture": {},
+        "Construction": {},
+        "Industrial Equipment": {},
+        "Medical Equipment": {},
+         "Office Furniture & Equipment" : {},
+          "Restaurant Equipment": {},
+          "Whole Business for Sale": {},
+          "Other Business,Industrial & Agriculture": {}
+    },"service": {
+     "Business": {},
+      "Car": {},
+       "Events": {},
+      "Health & Beauty": {},
+      "Home": {},
+      "Medical": {},
+      "Movers": {},
+       "Pets": {},
+        "Education": {},
+      "Other services": {}
+    }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Free ad Limit",
+    "value": [
+      {"name":  "Maximum ads in categories of real estate and cars for sale",
+        "value": "Starting on March 15, 2022, it will be available for BAS  users to post 2 ads for free every 30 days in the categories of real estate and cars for sale, and users can post more ads by purchasing one of the new BAS  packages. However, if they do not want to purchase a package, they can save the ad and download it for free 30 days after the first ad is shown"
+      },
+      {"name":  "Why the limit on free ads on BAS? ",
+        "value": "The maximum limit for free ads aims to benefit the seller and the buyer, without the maximum limit. Some users use the site incorrectly and display many duplicate ads, and this makes the seller’s chance to be reduced and the buyer’s experience to be difficult. The maximum limit will be applied only in the categories of real estate and cars for sale and not in the rest of the site."
+      },
+      {"name":   "What is the maximum amount of free ads?",
+        "value": "This is a maximum ad limit applied by Bass to ads in the categories of real estate and cars for sale. Each user has the right to publish one ad for free every 30 days in each category of real estate and cars for sale. This change has been implemented to improve the quality of ads on BAS  and increase sales opportunities. Of course, this does not mean that you cannot publish more than one advertisement, now you will be able to publish more advertisements, and at your convenience, when you buy any of the BAS  packages, the first time you create your advertisement,."
+      },
+      {"name": "Do I have to pay to post an ad on BAS ?",
+        "value": "You cannot post the number of ads you like in all categories, except for two categories, real estate and cars for sale. In both categories, 2 ads are available for free every 30 days, and you can post more ads by purchasing BAS es packages tailored to meet your needs."
+      },
+      {"name":  "What are the categories that have a maximum of free ads?  ",
+        "value": "For all categories for free, and you can download as many as you want, except for two categories, real estate and cars for sale, available in the two categories, 2 ads for free every 30 days, and you can post more ads by purchasing different BAS  packages that meet your needs"
+      },
+      {"name":   "Can I edit my ad after I've been exposed?",
+        "value": "You can easily modify your ad after displaying, provided you do not change the type of product displayed, otherwise the ad will be deleted. To change the product and avoid deletion, please publish a new ad"
+      },
+      {"name":"If I delete my existing free ad, can I download another free ad?",
+        "value": "Unfortunately, no, the maximum amount of free ads is calculated on the ads that have been published, not the active ads, so you have to wait 30 days in order to download a new free ad or buy one of the BAS  packages. And if you delete an advertisement in the waiting stage and still don't see it, you must wait 30 days to display your new advertisement for free."
+      }
+    ]
+  },
+  {
+    "name": "Legal & Privacy information",
+    "value":[]
+  },
+  {
+    "name": "Posting Ads",
+    "value":[{
+      "الاعلانات المجانية فى قسم العقارات وسيارات للبيع": "الاعلانات المجانية فى قسم العقارات وسيارات للبيع"
+    }]
+  },{
+  "name": "Account & My Ads",
+  "value":[ {
+    "الاعلانات المجانية فى قسم العقارات وسيارات للبيع": "الاعلانات المجانية فى قسم العقارات وسيارات للبيع"
+  }]
+},{
+  "name": "Contacting Users & Messages",
+  "value":[ {
+    "الاعلانات المجانية فى قسم العقارات وسيارات للبيع": "الاعلانات المجانية فى قسم العقارات وسيارات للبيع"
+  }]
+},{
+  "name": "Fraud, Reporting & Security Tips",
+  "value":[]
+},{
+  "name": "About BAS",
+  "value":[ {
+    "الاعلانات المجانية فى قسم العقارات وسيارات للبيع": "الاعلانات المجانية فى قسم العقارات وسيارات للبيع"
+  }]
+}
+]
