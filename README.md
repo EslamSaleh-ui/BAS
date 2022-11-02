@@ -1,7 +1,5 @@
 # BAS
 
-Give me Your Opinions ?
-App name : BAS
 Mean : Buy and sell so easily
 front_end : Flutter
 Back_end : Firebase
