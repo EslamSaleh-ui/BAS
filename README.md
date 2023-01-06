@@ -4,7 +4,7 @@ Mean : Buy and sell so easily
 front_end : Flutter
 Back_end : Firebase
 Features :
-1- firease auth (phone number-email-google account-facebook)
+1- firease auth (phone number-email-google account-facebook)\n
 2-cloud firestore
 3-firebase storage
 4-cloud messaging notifications
