@@ -1,33 +1,56 @@
 # BAS
 
 Mean : Buy and sell so easily
+
 front_end : Flutter
+
 Back_end : Firebase 
+
 State management:getx
+
 Features :
+
 1- firease auth (phone number-email-google account-facebook)
+
 2-cloud firestore
+
 3-firebase storage
+
 4-cloud messaging notifications
+
 5-dynamic links
+
 6-google admob
+
 7-firebase analytics
+
 8-web view
+
 9-zendesk customer_service
+
 10-sending emails
+
 11-phone calls-sending messages
+
 12-live chat
+
 13-google maps
+
 14-REST API
-15-GetX
+
 16-Get Storage
+
 17-Localization
+
 18-Stripe Payments
+
 19-app_badger
+
 20- internet connection checker
+
 21- Github REST API
+
 22- Light/dark mode
-.
 
 ## Getting Started
 
