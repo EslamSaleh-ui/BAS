@@ -2,9 +2,10 @@
 
 Mean : Buy and sell so easily
 front_end : Flutter
-Back_end : Firebase
+Back_end : Firebase 
+State management:getx
 Features :
-1- firease auth (phone number-email-google account-facebook)\n
+1- firease auth (phone number-email-google account-facebook)
 2-cloud firestore
 3-firebase storage
 4-cloud messaging notifications
