@@ -6,7 +6,7 @@ front_end : Flutter
 
 Back_end : Firebase 
 
-State management:getx
+State management: getx
 
 Features :
 
